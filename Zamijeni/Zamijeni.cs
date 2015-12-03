@@ -43,7 +43,7 @@ namespace Vsite.CSharp
 
             //  Dodati poziv metode ZamijeniObjekt i proslijediti joj znakovne nizove prvi i drugi 
             object obj1 = (object)prvi;
-            object obj2 = (object)prvi;
+            object obj2 = (object)drugi;
 
             ZamijeniObjekt(ref obj1, ref obj2);
 
