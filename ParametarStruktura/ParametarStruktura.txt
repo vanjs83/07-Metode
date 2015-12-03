@@ -1,1 +1,8 @@
-﻿
+﻿Prije metode Uvecaj: 20
+Unutar metode Uvecaj: 21
+Nakon metode Uvecaj: 20
+GOTOVO!!!
+
+
+
+
