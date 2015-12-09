@@ -35,14 +35,17 @@ namespace CSharp.Metode
             base.PredstaviSe();
         }
 
-        // TODO: Dodati metodu IspišiMiČlanove koja će ispisati "NajIzvedena.IspišiMiČlanove"
+        //  Dodati metodu IspišiMiČlanove koja će ispisati "NajIzvedena.IspišiMiČlanove"
+        public new void IspišiMiČlanove() {
+            Console.WriteLine("NajIzvedena.IspišiMIČlanove");
+        }
     }
 
     class new2
     {
         static void Main(string[] args)
         {
-            // TODO: Izvesti program, prekopirati ispis u datoteku new2.txt te dopisati obrazloženje rezultata
+            //  Izvesti program, prekopirati ispis u datoteku new2.txt te dopisati obrazloženje rezultata
             Bazna[] niz = new Bazna[] { new Bazna(), new Izvedena(), new NajIzvedena() };
 
             foreach (Bazna b in niz)
