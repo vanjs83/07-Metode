@@ -1,1 +1,12 @@
-﻿
+﻿Bazna klasa
+
+Izvedena klasa, izvedena iz: Bazna klasa
+Izvedena.IspisiMiClanove
+
+Jos izvedenija klasa, izvedena iz: Izvedena klasa, izvedena iz: Bazna klasa
+Izvedena.IspisiMiClanove
+
+GOTOVO!!!
+
+
+
