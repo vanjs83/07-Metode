@@ -1,1 +1,10 @@
-﻿
+﻿Bazna klasa
+Bazna klasa
+
+Izvedena klasa, izvedena iz: Bazna klasa
+GOTOVO!!!
+
+Sa korištenjem new u pozivu metode mi eksplicitno pozivamo istoimenu
+metodu iz bazne klase 
+
+

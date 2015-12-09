@@ -13,8 +13,8 @@ namespace Vsite.CSharp
     }
     class Izvedena : Bazna
     {
-        // TODO: Dodajte modifikator new metodi
-        public void PredstaviSe()
+        //  Dodajte modifikator new metodi
+        public new void  PredstaviSe()
         {
             Console.Write("Izvedena klasa, izvedena iz: ");
             base.PredstaviSe();
@@ -25,7 +25,7 @@ namespace Vsite.CSharp
     {
         static void Main(string[] args)
         {
-            // TODO: Izvesti program, ispis preslikati u datoteku new1.txt te dodati obrazloženje
+            //  Izvesti program, ispis preslikati u datoteku new1.txt te dodati obrazloženje
             Bazna[] niz = new Bazna[] { new Bazna(), new Izvedena() };
 
             foreach (Bazna b in niz)
