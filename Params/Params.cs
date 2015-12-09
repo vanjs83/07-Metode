@@ -17,6 +17,11 @@ namespace Vsite.CSharp
         // TODO: Napisati implementaciju metode tako da vrati zbroj svih proslijeđenih argumenata
         public static double Zbroji(params double[] pribrojnici)
         {
+            double zbroj=0;
+            for (int i = 0; i < pribrojnici.Length; i++) {
+                zbroj += pribrojnici[i];
+            }
+            return zbroj;
         }
     }
 }
