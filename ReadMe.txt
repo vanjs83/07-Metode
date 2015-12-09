@@ -87,3 +87,5 @@ dodan modifikator new virtual
 ProsirujuceMetode
 -----------------
 Primjer kako se definiraju proširujuće metode
+ 
+!!Pročitano
